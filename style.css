@@ -5,7 +5,8 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 500; /* Додайте цей рядок */
     color: #1a1a1a;
     background-color: #f9f9f9;
     display: flex;
