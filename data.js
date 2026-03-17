@@ -10,7 +10,7 @@ const blocksData = [
         products: [
             {
                 image: "./images/p1.jpg",
-                title: "Тумба LOFT 1400",
+                title: "Тумба Loft 1",
                 specs: ["ширина - 1400мм", "висота - 500мм", "глибина - 450мм"],
                 oldPrice: "8200₴",
                 newPrice: "7380₴"
