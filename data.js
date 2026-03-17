@@ -49,7 +49,7 @@ const blocksData = [
             },
             {
                 image: "./images/p5.jpg",
-                title: "Пердпокій LOFT 600",
+                title: "Передпокій LOFT 600",
                 specs: ["ширина - 600мм", "висота - 2000мм", "глибина - 450мм"],
                 oldPrice: "12900₴",
                 newPrice: "11610₴"
