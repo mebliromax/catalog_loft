@@ -3,10 +3,12 @@
     margin: 0;
     padding: 0;
 }
-
+:root {
+    color-scheme: light only;
+}
 body {
     font-family: 'Manrope', sans-serif;
-    font-weight: 500; /* Додайте цей рядок */
+    font-weight: 500;
     color: #1a1a1a;
     background-color: #f9f9f9;
     display: flex;
