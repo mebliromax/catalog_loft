@@ -205,7 +205,7 @@ const blocksData = [
                 newPrice: "10710₴"
             },
             {
-                image: "./images/p5.jpg",
+                image: "./images/p4.jpg",
                 title: "Передпокій Loft 600",
                 specs: ["ширина - 600мм", "висота - 2000мм", "глибина - 450мм"],
                 oldPrice: "13900₴",
