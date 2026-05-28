@@ -41,14 +41,14 @@ const blocksData = [
         },
         products: [
             {
-                image: "./images/p4.jpg",
+                image: "./images/p5.jpg",
                 title: "Пенал LOFT ",
                 specs: ["ширина - 500мм", "висота - 2000мм", "глибина - 500мм"],
                 oldPrice: "9900₴",
                 newPrice: "8910₴"
             },
             {
-                image: "./images/p5.jpg",
+                image: "./images/p4.jpg",
                 title: "Передпокій LOFT 600",
                 specs: ["ширина - 600мм", "висота - 2000мм", "глибина - 450мм"],
                 oldPrice: "13900₴",
