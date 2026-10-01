@@ -19,8 +19,8 @@ const blocksData = [
                 image: "./images/p2.jpg",
                 title: "Дзеркало LOFT",
                 specs: ["ширина - 800мм", "висота - 1000мм"],
-                oldPrice: "4700₴",
-                newPrice: "4230₴"
+                oldPrice: "4900₴",
+                newPrice: "4410₴"
             },
             {
                 image: "./images/p3.jpg",
@@ -51,8 +51,8 @@ const blocksData = [
                 image: "./images/p4.jpg",
                 title: "Передпокій LOFT 600",
                 specs: ["ширина - 600мм", "висота - 2000мм", "глибина - 450мм"],
-                oldPrice: "13900₴",
-                newPrice: "12510₴"
+                oldPrice: "14500₴",
+                newPrice: "13050₴"
             }
         ]
     },
@@ -76,8 +76,8 @@ const blocksData = [
                 image: "./images/p10.jpg",
                 title: "Передпокій Loft 600",
                 specs: ["ширина - 600мм", "висота - 2000мм", "глибина - 450мм"],
-                oldPrice: "13900₴",
-                newPrice: "12510₴"
+                oldPrice: "14500₴",
+                newPrice: "13050₴"
             }
         ]
     },
@@ -94,8 +94,8 @@ const blocksData = [
                 image: "./images/p11.jpg",
                 title: "Ліжко Loft 160x200",
                 specs: ["ширина - 1680мм", "висота - 860мм", "глибина - 2060мм"],
-                oldPrice: "12900₴",
-                newPrice: "11610₴"
+                oldPrice: "13500₴",
+                newPrice: "12150₴"
             },
             {
                 image: "./images/p12.jpg",
@@ -119,8 +119,8 @@ const blocksData = [
                 image: "./images/p7.jpg",
                 title: "Ліжко Loft 160x200",
                 specs: ["ширина - 1680мм", "висота - 860мм", "глибина - 2060мм"],
-                oldPrice: "12900₴",
-                newPrice: "11610₴"
+                oldPrice: "13500₴",
+                newPrice: "12150₴"
             },
             {
                 image: "./images/p8.jpg",
@@ -151,8 +151,8 @@ const blocksData = [
                 image: "./images/p14.jpg",
                 title: "Дзеркало LOFT",
                 specs: ["ширина - 800мм", "висота - 1000 мм"],
-                oldPrice: "4700₴",
-                newPrice: "4230₴"
+                oldPrice: "4900₴",
+                newPrice: "4410₴"
             },
             {
                 image: "./images/p15.jpg",
@@ -176,15 +176,15 @@ const blocksData = [
                 image: "./images/p16.jpg",
                 title: "Шафа 3Д Loft (Дзеркало)",
                 specs: ["ширина - 1400мм", "висота - 2000мм", "глибина - 500мм"],
-                oldPrice: "22500₴",
-                newPrice: "20250₴"
+                oldPrice: "23500₴",
+                newPrice: "21150₴"
             },
             {
                 image: "./images/p4.jpg",
                 title: "Передпокій Loft 600",
                 specs: ["ширина - 600мм", "висота - 2000мм", "глибина - 450мм"],
-                oldPrice: "13900₴",
-                newPrice: "12510₴"
+                oldPrice: "14500₴",
+                newPrice: "13050₴"
             }
         ]
     },
@@ -201,15 +201,15 @@ const blocksData = [
                 image: "./images/p17.jpg",
                 title: "Шафа 2Д Loft",
                 specs: ["ширина - 900мм", "висота - 2000мм", "глибина - 500мм"],
-                oldPrice: "11900₴",
-                newPrice: "10710₴"
+                oldPrice: "12500₴",
+                newPrice: "11250₴"
             },
             {
                 image: "./images/p4.jpg",
                 title: "Передпокій Loft 600",
                 specs: ["ширина - 600мм", "висота - 2000мм", "глибина - 450мм"],
-                oldPrice: "13900₴",
-                newPrice: "12510₴"
+                oldPrice: "14500₴",
+                newPrice: "13050₴"
             }
         ]
     },
@@ -226,15 +226,15 @@ const blocksData = [
                 image: "./images/p18.jpg",
                 title: "Шафа 3Д Loft",
                 specs: ["ширина - 1400мм", "висота - 2000мм", "глибина - 500мм"],
-                oldPrice: "16500₴",
-                newPrice: "14850₴"
+                oldPrice: "17500₴",
+                newPrice: "15750₴"
             },
             {
                 image: "./images/p10.jpg",
                 title: "Передпокій Loft 600",
                 specs: ["ширина - 600мм", "висота - 2000мм", "глибина - 450мм"],
-                oldPrice: "13900₴",
-                newPrice: "12510₴"
+                oldPrice: "14500₴",
+                newPrice: "13050₴"
             }
         ]
     },
@@ -251,8 +251,8 @@ const blocksData = [
                 image: "./images/p19.jpg",
                 title: "Ліжко Loft 90x200",
                 specs: ["ширина - 990мм", "висота - 860мм", "глибина - 2060мм"],
-                oldPrice: "8900₴",
-                newPrice: "8010₴"
+                oldPrice: "9500₴",
+                newPrice: "8850₴"
             },
             {
                 image: "./images/p8.jpg",
@@ -276,8 +276,8 @@ const blocksData = [
                 image: "./images/p7.jpg",
                 title: "Ліжко LOFT 160х200",
                 specs: ["ширина - 1680мм", "висота - 860мм", "глибина - 2060мм"],
-                oldPrice: "12900₴",
-                newPrice: "11610₴"
+                oldPrice: "13500₴",
+                newPrice: "12150₴"
             },
             {
                 image: "./images/p8.jpg",
@@ -290,8 +290,8 @@ const blocksData = [
                 image: "./images/p6.jpg",
                 title: "Ліжко двоярусне LOFT 80х190",
                 specs: ["ширина - 1980мм", "висота - 1500мм", "глибина - 850мм"],
-                oldPrice: "14900₴",
-                newPrice: "13410₴"
+                oldPrice: "16500₴",
+                newPrice: "14850₴"
             }
         ]
     },
@@ -308,8 +308,8 @@ const blocksData = [
                 image: "./images/p6.jpg",
                 title: "Ліжко двоярусне Loft 80x190",
                 specs: ["ширина - 1980мм", "висота - 1500мм", "глибина - 850мм"],
-                oldPrice: "14900₴",
-                newPrice: "13410₴"
+                oldPrice: "16500₴",
+                newPrice: "14850₴"
             },
             {
                 image: "./images/p8.jpg",
@@ -333,22 +333,22 @@ const blocksData = [
                 image: "./images/p4.jpg",
                 title: "Передпокій Loft 600",
                 specs: ["ширина - 600мм", "висота - 2000мм", "глибина - 450мм"],
-                oldPrice: "13900₴",
-                newPrice: "12510₴"
+                oldPrice: "14500₴",
+                newPrice: "13050₴"
             },
             {
                 image: "./images/p20.jpg",
                 title: "Тумба Loft 1800",
                 specs: ["ширина - 1800мм", "висота - 500мм", "глибина - 450мм"],
-                oldPrice: "10500₴",
-                newPrice: "9450₴"
+                oldPrice: "10900₴",
+                newPrice: "9810₴"
             },
             {
                 image: "./images/p21.jpg",
                 title: "Стелаж Loft 600",
                 specs: ["ширина - 600мм", "висота - 2000мм", "глибина - 500мм"],
-                oldPrice: "8200₴",
-                newPrice: "7380₴"
+                oldPrice: "8600₴",
+                newPrice: "7740₴"
             }
         ]
     },
